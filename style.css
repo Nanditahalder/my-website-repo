@@ -1,0 +1,42 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.stay{
+    color: orange;
+}
+h1{
+    font-size: 50px;
+    margin-left: 30px;
+}
+
+p{
+    margin-left: 30px;
+}
+.half-width{
+    width: 50%;
+}
+.flexible{
+    display: flex;
+}
+.person img{
+    width: 50%;
+    
+}
+.btn{
+    background-image: linear-gradient(rgba(255, 99, 71, 0.678),tomato);
+    margin: 10px 20px;
+    padding: 10px 20px;
+    margin-left: 30px;
+    
+}
+.btn a{
+    text-decoration: none;
+    color:white;
+}
+.mission{
+    color: orange;
+}
+.missioner{
+    text-align: center;
+}
